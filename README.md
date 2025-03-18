@@ -30,6 +30,9 @@ I'm a research student passionate about **C++ programming, OpenGL graphics, and 
 ### State Management:
 ![Redux](https://img.shields.io/badge/-Redux-purple?style=flat&logo=redux)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SingHarshit&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## 📚 What I'm Learning
 - 📈 Advanced OpenGL shading techniques
 - 📡 Optical flow and tracking algorithms
