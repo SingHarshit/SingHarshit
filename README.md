@@ -1,14 +1,8 @@
-# Hi there! 👋 I'm Jackson
+# Hi there! 👋 I'm Harshit 
 
-![Profile Banner](https://your-image-url.com) <!-- Add a banner image if you have one -->
+🚀 About Me
 
-## 🚀 About Me
-I'm a research student passionate about **C++ programming, OpenGL graphics, and algorithm development**. I love exploring mathematical concepts, graphics programming, and web development. Currently, I'm working on:
-
-- 🌍 **Culturama** – A cultural heritage platform for the Smart India Hackathon.
-- 📊 **Carbon Footprint Tracker** – A web-based tool for quantifying carbon footprints in Indian coal mines.
-- 🎮 **OpenGL Projects** – Implementing shading, scanline algorithms, and Koch curves.
-- 🛰 **Sub-Pixel Optical Flow Tracker** – Developing an algorithm for flying object tracking.
+I'm a passionate and consistent software developer dedicated to crafting efficient and scalable applications. With a strong enthusiasm for problem-solving, I enjoy working with modern technologies to build secure and high-performance solutions. My focus lies in full-stack development, optimizing backend performance, and designing seamless user experiences. I thrive on continuous learning and enjoy tackling new challenges.
 
 ## 🛠 Tech Stack
 
