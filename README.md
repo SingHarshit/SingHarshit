@@ -15,8 +15,6 @@ I'm a passionate and consistent software developer dedicated to crafting efficie
 ### **Real-time Communication:**
 ![WebSockets](https://img.shields.io/badge/-WebSockets-blue?style=flat&logo=websocket) ![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=flat&logo=socket.io)
 
-![Socket.io](https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg)
-
 ### **Database:**
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb) ![Redis](https://img.shields.io/badge/-Redis-red?style=flat&logo=redis) ![NoSQL](https://img.shields.io/badge/-NoSQL-blue?style=flat)
 
