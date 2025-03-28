@@ -30,15 +30,20 @@ I'm a passionate and consistent software developer dedicated to crafting efficie
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SingHarshit&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📚 What I'm Learning
-- 📈 Advanced OpenGL shading techniques
+- 🌐 Learning Backend and exploring AI/ML
+- 🌍 Contributing to open-source projects
 - 🛁 Optical flow and tracking algorithms
-- 🤖 AI and ML fundamentals (for future projects!)
-- 🔄 Real-time applications with WebSockets and Socket.io
 
 ## 🎯 Goals
-- Earn money while building awesome projects 💰
-- Make my parents proud ❤️
-- Contribute to open-source projects 🌍
+✅ Master full-stack development and scalable architectures.
+
+🌟 Contribute to impactful open-source projects.
+
+📈 Enhance AI/ML skills for innovative solutions.
+
+💼 Build efficient, high-quality software.
+
+🚀 Network and stay updated with emerging technologies.
 
 ## 👯️ Get in Touch
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile) [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/yourhandle) [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:your-email@example.com)
