@@ -46,7 +46,7 @@ I'm a passionate and consistent software developer dedicated to crafting efficie
 🚀 Network and stay updated with emerging technologies.
 
 ## 👯️ Get in Touch
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile) [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/yourhandle) [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/harshit-singh-03b63b28a/)) [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/yourhandle) [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:thecoderharshit7638@example.com)
 
 Let's build something amazing together! 🚀
 
