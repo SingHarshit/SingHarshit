@@ -27,7 +27,7 @@ I'm a passionate and consistent software developer dedicated to crafting efficie
 ### **State Management:**
 ![Redux](https://img.shields.io/badge/-Redux-purple?style=flat&logo=redux)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SingHarshit&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SingHarshit&layout=compact&theme=radical)]
 
 ## 📚 What I'm Learning
 - 🌐 Learning Backend and exploring AI/ML
