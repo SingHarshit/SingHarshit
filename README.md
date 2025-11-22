@@ -29,6 +29,9 @@ I'm a passionate and consistent software developer dedicated to crafting efficie
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SingHarshit&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=SingHarshit)](https://github.com/SingHarshit)
+
+
 ## 📚 What I'm Learning
 - 🌐 Learning Backend and exploring AI/ML
 - 🌍 Contributing to open-source projects
