@@ -34,7 +34,8 @@ I'm a passionate and consistent software developer dedicated to crafting efficie
 
 ![Redux](https://img.shields.io/badge/-Redux-purple?style=flat\&logo=redux)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SingHarshit\&layout=compact\&theme=radical)](https://github.com/SingHarshit)
+[![Top Languages]![](https://raw.githubusercontent.com/SingHarshit/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/SingHarshit/github-stats/master/generated/overview.svg#gh-light-mode-only))
 
 ## 📚 What I'm Learning
 
